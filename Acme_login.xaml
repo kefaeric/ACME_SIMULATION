@@ -173,7 +173,7 @@
                 </uix:TargetAnchorable>
               </uix:NHover.Target>
             </uix:NHover>
-            <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Download Client'" sap:VirtualizedContainerService.HintSize="388,159.33333333333334" sap2010:WorkflowViewState.IdRef="NClick_4" InteractionMode="Simulate" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="a97a429e-290d-4e2e-a698-95dbadc3da17" Version="V3">
+            <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Download Client on acme site'" sap:VirtualizedContainerService.HintSize="388,159.33333333333334" sap2010:WorkflowViewState.IdRef="NClick_4" InteractionMode="Simulate" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="a97a429e-290d-4e2e-a698-95dbadc3da17" Version="V3">
               <uix:NClick.Target>
                 <uix:TargetAnchorable BrowserURL="https://acme-test.uipath.com/" CvTextArea="404, 407, 184, 16" CvTextArgument="Download Client and Support" CvType="Text" DesignTimeRectangle="404, 407, 184, 16" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'Download Client'" Guid="f995d6e4-fe08-417f-bc46-b5be6d86b797" InformativeScreenshot="518654a6979c90351926d2e3337fb792.png" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Dashboard' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V2" Visibility="Interactive">
                   <uix:TargetAnchorable.Anchors>
